@@ -1,4 +1,3 @@
-```markdown
 # Face Position Predictor
 
 This mini-project uses the Landing AI platform to predict the face positions (left, right, front) in images. The image dataset is sourced using the `icrawler` library, which downloads images directly from Google Images. The project is implemented in Python.
